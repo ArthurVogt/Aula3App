@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3App</string>
+    <string name="tela1">Savings</string>
+    <string name="t1.text1">Initial value:</string>
+    <string name="t1.field1">Amount in U$, Ex: 1700.00</string>
+    <string name="t1.text2">Monthly application:</string>
+    <string name="t1.field2">Ex: 100.00</string>
+    <string name="t1.text3">Application time:</string>
+    <string name="t1.field3">In months</string>
+    <string name="t1.text4">Fee:</string>
+    <string name="t1.field4">Ex: 0.02</string>
+    <string name="t1.button">Calculate</string>
+    <string name="t4.text1">Total consumption U$:</string>
+    <string name="t4.text2">Artistic cover charge: U$:</string>
+    <string name="t4.text3">Divide account by:</string>
+    <string name="t4.text4">Service Fee (10%) U$:</string>
+    <string name="t4.text5">Total account U$:</string>
+    <string name="t4.text6">Price per person U$:</string>
+    <string name="t4.button1">Calculate final bill</string>
+</resources>

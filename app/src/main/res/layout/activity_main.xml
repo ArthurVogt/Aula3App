@@ -10,25 +10,25 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/b1"
+        android:text="@string/tela1"
         android:id="@+id/b1"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/b2"
+        android:text="@string/tela2"
         android:id="@+id/b2"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/b3"
+        android:text="@string/tela3"
         android:id="@+id/b3"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/b4"
+        android:text="@string/tela4"
         android:id="@+id/b4"/>
 
 </LinearLayout>

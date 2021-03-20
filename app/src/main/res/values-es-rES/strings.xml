@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3App</string>
+    <string name="t4.text1">Consumo total €:</string>
+    <string name="t4.text2">Cargo por portada artística: €:</string>
+    <string name="t4.text3">Dividir cuenta por:</string>
+    <string name="t4.text4">Tarifa de servicio (10%) €:</string>
+    <string name="t4.text5">Cuenta total €:</string>
+    <string name="t4.text6">Precio por persona €:</string>
+    <string name="t4.button1">Calcular factura final</string>
+    <string name="tela1">Poupança</string>
+    <string name="t1.text1">Valor Inicial:</string>
+    <string name="t1.field1">Valor em R$, Ex: 1700,00</string>
+    <string name="t1.text2">Aplicação mensal:</string>
+    <string name="t1.field2">Ex: 100,00</string>
+    <string name="t1.text3">Tempo de aplicação:</string>
+    <string name="t1.field3">Em meses</string>
+    <string name="t1.text4">Taxa:</string>
+    <string name="t1.field4">Ex: 0,02</string>
+    <string name="t1.button">Calcular</string>
+</resources>
